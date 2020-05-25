@@ -1,5 +1,6 @@
 {
   "name": "github-actions-demo",
+  "homepage": "https://jiangawait.github.io/github-actions-demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
